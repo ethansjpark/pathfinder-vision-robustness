@@ -27,9 +27,11 @@ pip install -r requirements.txt
 
 ### Repo Layout
 
+```bash
 src/ → core code (training, evaluation, inference)
 configs/ → YAML experiment configs
 experiments/ → results & logs
 notebooks/ → analysis notebooks
 paper/ → CVPR-style LaTeX paper
 proposal/ → research proposal + GT alignment
+```
